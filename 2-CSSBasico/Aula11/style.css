@@ -1,0 +1,57 @@
+body {
+    background: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34,34,34);
+}
+
+.conteiner {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.foto-principal {
+    margin: 30px 30px 0px 0px; /* short hand */
+    width: 300px;
+    border: 2px solid rgb(0, 0, 0); /* short hand */
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px #959595;
+}
+
+.social-icons {
+    width: 40px;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    letter-spacing: -1px;
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 2px;
+    font-style: italic;
+    color: rgb(73,73,73);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+p {
+    line-height: 25px;
+}
+

@@ -1,0 +1,15 @@
+body {
+    background: #dfdfdf;
+}
+
+.foto-principal {
+    margin: 30px; /* short hand */
+    width: 300px;
+    border: 2px solid rgb(255, 253, 253); /* short hand */
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px #959595;
+}
+
+p {
+    color: rgb(34,34,34);
+}
