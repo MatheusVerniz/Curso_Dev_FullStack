@@ -1,0 +1,21 @@
+
+p {
+    font-size: 30px;
+    color: green;
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    /*font-variant: small-caps;*/
+    text-transform: uppercase;
+    word-spacing: 20px;
+    line-height: 50px;
+}
+
+h1 {
+    text-shadow: 2px 2px 3px red;
+}
+
+a {
+    text-decoration: none;
+    letter-spacing: 20px;
+}

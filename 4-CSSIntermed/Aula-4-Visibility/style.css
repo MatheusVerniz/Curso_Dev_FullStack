@@ -1,0 +1,15 @@
+body {
+    background: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__480.png);
+}
+
+
+ul {
+    background: gray;
+    padding: 20px;
+    opacity: 0.5;
+}
+
+ ul li {
+     display: inline;
+     margin: 20px;
+ }
