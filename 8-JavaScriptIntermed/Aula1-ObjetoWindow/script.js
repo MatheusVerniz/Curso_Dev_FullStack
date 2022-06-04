@@ -1,0 +1,6 @@
+
+//GLOBAL
+
+window.alert('')
+=
+alert('')
